@@ -56,7 +56,9 @@
                 android:name="string"
                 android:value="AIzaSyA6ZWz4JoVoS-CK5i-z-glbCPYqz-twV-U" />
         </activity>
-        <activity android:name=".ReportIncidentActivity"></activity>
+        <activity android:name=".ReportIncidentActivity" />
+        <activity android:name=".FullScreenImageActivity" />
+        <activity android:name=".LoginActivity"></activity>
     </application>
 
 </manifest>

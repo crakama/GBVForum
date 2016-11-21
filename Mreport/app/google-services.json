@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "618057385295",
+    "firebase_url": "https://report-1479436245085.firebaseio.com",
+    "project_id": "report-1479436245085",
+    "storage_bucket": "report-1479436245085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618057385295:android:14aa5a34292f361d",
+        "android_client_info": {
+          "package_name": "com.dadaabs.mreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618057385295-brccsa3sg137nhbh82s9kqplq39h4iu4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dadaabs.mreport",
+            "certificate_hash": "3BBC2979F6F0D01D7220CD5AB5338A2513DF5F62"
+          }
+        },
+        {
+          "client_id": "618057385295-jlsjm8o662i9b66ueq9pin8v6gaj7kfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9bRVSQhOid-h08l6Ia-u3gxqV324dAFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618057385295-jlsjm8o662i9b66ueq9pin8v6gaj7kfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
